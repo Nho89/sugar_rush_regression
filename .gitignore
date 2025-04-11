@@ -175,3 +175,4 @@ cython_debug/
 
 #Ficheros temporales
 model.py
+model_evaluation_copy.ipynb

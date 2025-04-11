@@ -7,4 +7,6 @@ dependencies = [
     "pandas>=2.2.3",
     "scikit-learn>=1.6.1",
     "seaborn>=0.13.2",
+    "spicy>=0.16.0",
+    "xgboost>=3.0.0",
 ]
